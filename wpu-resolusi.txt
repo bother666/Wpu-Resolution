@@ -3,3 +3,4 @@ WPU RESOLUSI
 - membuat platform untuk mengelolaan video
 - membuat forum diskusi
 - jadi konglo
+- membuat vlog
